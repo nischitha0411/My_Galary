@@ -1,0 +1,7 @@
+{
+  "name": "My Memory Book",
+  "description": "A digital scrapbook memory book with dedicated sections for Special Moments, Birthday Memories, College Memories, Friends, Family, Photos, and Important Dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
